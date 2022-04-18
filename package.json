@@ -18,14 +18,14 @@
     "url": "https://github.com/vertcoin-project/vertcore-p2p.git"
   },
   "dependencies": {
-    "vertcore-lib": "git://github.com/cruelnovo/vertcore-lib.git",
-    "vcoin": "git://github.com/cruelnovo/vcoin.git",
+    "vertcore-lib": "https://github.com/cruelnovo/vertcore-lib.git",
+    "vcoin": "https://github.com/cruelnovo/vcoin.git",
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "vertcore-build": "git://github.com/vertcoin-project/vertcore-build.git",
+    "vertcore-build": "https://github.com/vertcoin-project/vertcore-build.git",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
